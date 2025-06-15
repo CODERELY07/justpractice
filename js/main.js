@@ -1,5 +1,6 @@
 // Home page JavaScript
 document.addEventListener('DOMContentLoaded', function() {
+    
     console.log('Home page loaded');
     
     // Smooth scroll for anchor links
@@ -17,3 +18,5 @@ document.addEventListener('DOMContentLoaded', function() {
         });
     });
 });
+
+
